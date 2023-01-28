@@ -1,6 +1,14 @@
 ### Hi there 👋 I'm Benjamin
 I am 20 years old and I am from Argentina. At the age of 7, my parents showed me the beauty of programming, and since that day I have loved creating tools with the power of programming to help people.
 
+Right now I specialize in web development with Nuxt.js but I know other technologies such as: Electron.js · Solidity · Puppeteer (Node.js) · Vue.js · JavaScript · GunDb · MongoDB · MySQL · PHP
+
+I developed a lot of time with elixir and its framework for web development phoenix
+
+I am also passionate about the development of decentralized systems and so I ended up learning technologies such as: GunDb, IPFS and solidity
+
+I speak: English, Spanish (native), Portuguese and Russian (Beginner/intermediate)
+
 E-mail: info@bensanz.com
 
 My Instagram [Here](https://www.instagram.com/bensanz182/)
