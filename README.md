@@ -5,7 +5,7 @@ Right now I specialize in web development with Nuxt.js but I know other technolo
 
 I developed a lot of time with elixir and its framework for web development phoenix
 
-I am also passionate about the development of decentralized systems and so I ended up learning technologies such as: GunDb, IPFS and solidity
+I am also passionate about developing decentralized systems so I ended up learning technologies like: GunDb, IPFS and solidity
 
 I speak: English, Spanish (native), Portuguese and Russian (Beginner/intermediate)
 
