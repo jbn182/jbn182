@@ -7,7 +7,7 @@ I developed a lot of time with elixir and its framework for web development phoe
 
 I am also passionate about developing decentralized systems so I ended up learning technologies like: GunDb, IPFS and solidity
 
-I speak: English, Spanish (native), Portuguese and Russian (Beginner/intermediate)
+I speak: English, Spanish, Portuguese and Russian
 
 E-mail: info@bensanz.com
 
